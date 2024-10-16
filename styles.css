@@ -30,6 +30,7 @@ nav ul li a {
 main {
   padding: 20px;
   background-color: #fff;
+  min-height: 80vh;
 }
 section {
   margin-bottom: 20px;
